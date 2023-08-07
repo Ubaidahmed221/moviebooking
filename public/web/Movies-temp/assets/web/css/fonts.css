@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'MontserratRegular';
+    src: url('../fonts/MontserratRegular.eot');
+    src: local('MontserratRegular'), url('../fonts/MontserratRegular.woff') format('woff'), url('../fonts/MontserratRegular.ttf') format('truetype');
+}
+
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_8356">Text with this font applied</p> */
+
+.fontsforweb_fontid_8356 {
+    font-family: 'MontserratRegular' !important;
+}
+
+@font-face {
+    font-family: 'Montserratlight';
+    src: url('../fonts/montserrat-light-webfont.eot');
+    src: local('Montserratlight'), url('../fonts/montserrat-light-webfont.woff') format('woff'), url('../fonts/montserrat-light_%5ballfont.net%5d.ttf') format('truetype');
+}
+
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_8356">Text with this font applied</p> */
+
+.fontsforweb_fontid_8357 {
+    font-family: 'Montserratlight' !important;
+}
+
+/* Font downloaded from FontsForWeb.com */
